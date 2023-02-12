@@ -1,4 +1,4 @@
-print("Welcome to my Computer Quiz!")
+print("Welcome to my Computer Quiz people!")
 
 #create a variable and use  input function for the user to start typing...
 playing = input("Do you want to play? ")
